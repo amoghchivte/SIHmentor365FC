@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "351202511438",
+    "firebase_url": "https://mentor-365-1520918973623.firebaseio.com",
+    "project_id": "mentor-365-1520918973623",
+    "storage_bucket": "mentor-365-1520918973623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351202511438:android:fa52beec4b9194f7",
+        "android_client_info": {
+          "package_name": "com.example.sherlockholmes.googlegateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351202511438-m80oig221ip8eca61cflce7tqsnd6pld.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "351202511438-c7nakvvpvoqgcdiarbjg5uulqajv2b38.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "351202511438-l5e3ro5fgsvb0cfh1bjbsterr4rqomlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFydAowcZ2BgXUxaq8cxrA6TeYYdpQo6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
